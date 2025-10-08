@@ -130,12 +130,6 @@ We evaluated each method by processing the first (`4746638094_f5336788a0_n.jpg`)
 ![Deep Learning Similarity Results](images/result3.png)
 *Top 3 from Top 10 most similar sunflowers based on semantic feature analysis*
 
-## Academic Context
-
-This project is part of the **SCC0661 - Multimedia and Hypermedia** course at **University of São Paulo (USP)**.
-
-**Student:** [Your Name]
-**NUSP:** [Your Student ID]
 
 ## Installation and Usage
 
@@ -185,15 +179,16 @@ image_dict_histogram/
 
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
----
+
 
 *For questions or contributions, please open an issue or submit a pull request on GitHub.*
 
 
----
+
 
 ## 📌 Author
 
+This project is part of the **SCC0661 - Multimedia and Hypermedia** course at **University of São Paulo (USP)**.
 
 
 Lucas Sales Duarte  
