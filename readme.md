@@ -134,7 +134,7 @@ We evaluated each method by processing the first (`4746638094_f5336788a0_n.jpg`)
 ## Installation and Usage
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.12.3
 - Git
 - Virtual environment support
 
